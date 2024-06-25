@@ -32,9 +32,9 @@ app.post("/create_preference", async (req, res) =>{
                 },
             ],
             back_urls: {
-                success: "https://espacio-melo-toiv.vercel.app/",
-                failure: "https://espacio-melo-toiv.vercel.app/",
-                pending: "https://espacio-melo-toiv.vercel.app/"
+                success: "https://www.youtube.com/",
+                failure: "https://www.youtube.com/",
+                pending: "https://www.youtube.com/"
             },
             auto_return: "approved",
             "payer": {
